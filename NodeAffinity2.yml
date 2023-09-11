@@ -27,7 +27,7 @@ spec:
                   - key: slave1
                     operator: In
                     values:
-                      - intelliqit1
+                      - cherry1
 ...
                 
                 
