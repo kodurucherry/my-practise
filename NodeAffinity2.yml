@@ -24,7 +24,7 @@ spec:
           requiredDuringSchedulingIgnoredDuringExecution:
             nodeSelectorTerms:
               - matchExpressions:
-                  - key: slave1
+                  - key: slave
                     operator: In
                     values:
                       - cherry1
